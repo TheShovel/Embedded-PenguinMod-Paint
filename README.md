@@ -1,10 +1,10 @@
-# TurboWarp/scratch-paint
+# ShovelAnimator/scratch-paint
 
-Modified version of scratch-paint for TurboWarp
+Modified version of TurboWarp/scratch-paint for ShovelAnimator
 
 ## License
 
-TurboWarp/scratch-paint is licensed under the GNU General Public License version 3.0. See LICENSE for more information.
+ShovelAnimator/scratch-paint is licensed under the GNU General Public License version 3.0. See LICENSE for more information.
 
 The original scratch-paint that this is based on uses the following license:
 
