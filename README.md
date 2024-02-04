@@ -4,7 +4,7 @@ Modified version of PenguinMod/PenguinMod-paint for ShovelAnimator
 
 ## License
 
-ShovelAnimator/scratch-paint is licensed under the GNU General Public License version 3.0. See LICENSE for more information.
+ShovelAnimator/paint is licensed under the GNU General Public License version 3.0. See LICENSE for more information.
 
 The original scratch-paint that this is based on uses the following license:
 
