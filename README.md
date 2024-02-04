@@ -1,6 +1,6 @@
-# ShovelAnimator/scratch-paint
+# ShovelAnimator-paint
 
-Modified version of TurboWarp/scratch-paint for ShovelAnimator
+Modified version of PenguinMod/PenguinMod-paint for ShovelAnimator
 
 ## License
 
